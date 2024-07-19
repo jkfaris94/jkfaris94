@@ -11,7 +11,7 @@ function largestFirst(numbers) {
 }
 
 function sortFlowersByZone(flowers) {
-
+    return flowers.sort((flowersA, flowersB) => (flowersA.zone > flowersB.zone ? 1 : -1));
 }
 
 function sortByLength(strings) {
