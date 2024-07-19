@@ -3,7 +3,7 @@ function sortWords(words) {
 }
 
 function sortNumbers(numbers) {
-
+    return numbers.sort((a, b) => a - b);
 }
 
 function largestFirst(numbers) {
