@@ -15,5 +15,5 @@ function sortFlowersByZone(flowers) {
 }
 
 function sortByLength(strings) {
-
+    return strings.sort((a, b) => a.length - b.length);
 }
