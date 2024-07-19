@@ -7,7 +7,7 @@ function sortNumbers(numbers) {
 }
 
 function largestFirst(numbers) {
-
+    return numbers.sort((a, b) => b - a);
 }
 
 function sortFlowersByZone(flowers) {
