@@ -1,5 +1,5 @@
 function sortWords(words) {
-
+    return words.sort()
 }
 
 function sortNumbers(numbers) {
