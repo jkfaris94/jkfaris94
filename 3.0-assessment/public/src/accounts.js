@@ -7,6 +7,7 @@ function findAccountById(accounts, id) {
 
 function sortAccountsByLastName(accounts) {
   // YOUR SOLUTION HERE
+  return accounts.sort((accountA, accountB) => accountA.name.last.localeCompare(accountB.name.last));
   // Hint: You can use the [`sort()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) method here. 
 }
 
