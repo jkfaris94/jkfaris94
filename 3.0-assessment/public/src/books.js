@@ -1,5 +1,7 @@
 function findAuthorById(authors, id) {
   // YOUR SOLUTION HERE
+  const found = authors.find(author => author.id === id);
+  return found;
 }
 
 function findBookById(books, id) {
