@@ -1,16 +1,14 @@
-## Hi there 👋
+# HTML Forms Lesson
+# Description
+This project is simply to build an email form
 
-<!--
-**jkfaris94/jkfaris94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Author
+Name: John Faris
 
-Here are some ideas to get you started:
+Email: jkfaris@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# How to Use
+Visit the live website at jkfaris94.github.io.
+
+# Contributing
+This is a personal portfolio page for client. Contributions are not currently being accepted.
