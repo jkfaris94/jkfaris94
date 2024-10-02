@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif; /* Set a font for the page */
+    margin: 20px; /* Add margin to the body */
+}
+
+form {
+    max-width: 400px; /* Limit the width of the form */
+    margin: auto; /* Center the form horizontally */
+    padding: 20px; /* Add padding around the form */
+    border: 1px solid #ccc; /* Add border around the form */
+    border-radius: 5px; /* Round the corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Add some shadow */
+}
+
+div {
+    margin-bottom: 15px; /* Space between form elements */
+}
+
+label {
+    display: block; /* Ensure labels take full width */
+    margin-bottom: 5px; /* Space below labels */
+}
+
+input[type="text"], textarea {
+    width: 100%; /* Make inputs and text area take full width */
+    padding: 10px; /* Add padding inside inputs */
+    border: 1px solid #ccc; /* Add border to inputs */
+    border-radius: 4px; /* Round the corners */
+    box-sizing: border-box; /* Include padding and border in width calculation */
+}
+
+textarea {
+    height: 150px; /* Set height for the message box */
+    resize: vertical; /* Allow vertical resizing */
+}
