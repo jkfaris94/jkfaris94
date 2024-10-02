@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS file -->
+</head>
+<body>
     <form>
-    <div>
-        <label for="name">First name:</label>
-        <input id="name" type="text" name="name" />
-    </div>
-    <div>
-        <label for="name">Email:</label>
-        <input id="email" type="text" name="email" />
-    </div>
-    <div>
+        <div>
+            <label for="name">First name:</label>
+            <input id="name" type="text" name="name" />
+        </div>
+        <div>
+            <label for="email">Email:</label>
+            <input id="email" type="text" name="email" />
+        </div>
+        <div>
             <label for="form-message">Your message:</label>
-            <textarea id="form-message" name="message" autofocus="on" required maxlength="200"></textarea> 
-    </div>
-</form>
+            <textarea id="form-message" name="message" autofocus="on" required maxlength="200"></textarea>
+        </div>
+        <button type="submit">Submit</button> <!-- Optional submit button -->
+    </form>
+</body>
+</html>
