@@ -1,5 +1,6 @@
 import "./styles.css";
 
+console.log(document);
 /**
   Write the addheadings() function here
 */
@@ -33,7 +34,7 @@ function styleTutorialsAndArticles() {
         if (article.textContent.includes("Tutorial")) {
             article.classList.add('tutorial'); // Add class 'tutorial'
         } else {
-            article.classList.add('article'); // Add class 'article'
+            article.classList.add('articles'); // Add class 'article'
         }
     });
 }
