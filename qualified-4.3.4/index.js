@@ -1,4 +1,4 @@
-import "./styles.css";
+import './styles.css';
 
 /**
   Write the addheadings() function here
