@@ -1,6 +1,5 @@
-# HTML Forms Lesson
 # Description
-This project is simply to build an email form
+This project is a personal training website with calorie calculator
 
 # Author
 Name: John Faris
@@ -8,7 +7,4 @@ Name: John Faris
 Email: jkfaris@gmail.com
 
 # How to Use
-Visit the live website at jkfaris94.github.io.
-
-# Contributing
-This is a personal portfolio page for client. Contributions are not currently being accepted.
+Visit the live website at ChampLife.fit
