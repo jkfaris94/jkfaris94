@@ -1,10 +1,29 @@
-# Description
-This project is a personal training website with calorie calculator
+# 👋 Hi, I'm Johnny K Faris
 
-# Author
-Name: John Faris
+I'm a full-stack developer with a passion for solving real-world problems through clean, scalable code. I'm currently wrapping up a full-time coding bootcamp while building a portfolio of personal and professional projects.
 
-Email: jkfaris@gmail.com
+## 🧠 What I'm Learning
+- React, Node.js, Express, MongoDB
+- PostgreSQL, REST APIs
+- Algorithms & Data Structures
+- Git & GitHub best practices
 
-# How to Use
-Visit the live website at ChampLife.fit
+## 🔧 Featured Repositories
+- 🍞 [Bakery Inventory Manager](https://github.com/jkfaris94/bakery-inventory-manager)  
+  A full‑stack bakery inventory management app built with React, React Router, Express, and Knex/PostgreSQL.
+- 📚 [Chegg-skills](https://github.com/jkfaris94/Chegg-skills)  
+  My complete bootcamp coursework — organized by topic and project.
+- 💪 [ChampionLifestyle.fit](https://github.com/...) *(coming soon)*  
+  Personal fitness brand powered by WordPress, Kadence theme, and SEO-focused content.
+- 🔨 More projects coming soon...
+
+## 💼 My Background
+- Full-stack coding bootcamp student  
+- CEO of Champion Lifestyle LLC  
+- Former professional fighter (MMA, Muay Thai, BJJ)  
+- Passionate about health, tech, and continuous learning
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](#) *(coming soon)*
+- 🌐 [Portfolio](#) *(coming soon)*
+- 📧 [jkfaris@gmail.com](mailto:jkfaris@gmail.com)
