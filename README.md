@@ -4,10 +4,10 @@ I'm a full-stack developer with a passion for solving real-world problems throug
 
 💻 What I'm Working On
 
-- Developing a client platform and app for personal training, designed to scale for online and virtual coaching.
+- Developing a client platform and app for personal training, designed to scale for online personal training clients and virtual coaching.
 - Building features for custom exercise programming, progress tracking, and a seamless user experience.
 
-## 🧠 What I'm Learning
+## 🧠 What I'm Skilled With
 - React, Node.js, Express, MongoDB
 - PostgreSQL, REST APIs
 - Algorithms & Data Structures
@@ -16,14 +16,15 @@ I'm a full-stack developer with a passion for solving real-world problems throug
 ## 🔧 Featured Repositories
 - 🍞 [Bakery Inventory Manager](https://github.com/jkfaris94/bakery-inventory-manager)  
   A full‑stack bakery inventory management app built with React, React Router, Express, and Knex/PostgreSQL.
-- 📚 [Chegg-skills](https://github.com/jkfaris94/Chegg-skills)  
-  My complete bootcamp coursework — organized by topic and project.
-- 💪 [ChampionLifestyle.fit](ChampionLifestyle.fit) 
-  Personal fitness brand powered by WordPress, Kadence theme, and SEO-focused content.
+- 🎥 [WeLoveMovies]([https://github.com/jkfaris94/Chegg-skills](https://github.com/jkfaris94/WeLoveMovies-back-end))  
+  A RESTful backend service for a movie theater application. This API supports retrieving movie information, theater showings, and user reviews.
+- ✍🏻 [Flashcard-O-Matic](https://github.com/jkfaris94/Flashcard-O-Matic) 
+  A React-based flashcard learning app designed to help students study efficiently and teachers manage decks of cards for specific subjects. Built as a capstone project to practice CRUD operations, routing, and state management.
+
 - 🔨 More projects coming soon...
 
 ## 💼 My Background
-- Full-stack coding bootcamp student  
+- Full-stack software engineer  
 - CEO of Champion Lifestyle LLC  
 - Former professional fighter (MMA, Muay Thai, BJJ)  
 - Passionate about health, tech, and continuous learning
