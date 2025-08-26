@@ -16,7 +16,7 @@ I'm a full-stack developer with a passion for solving real-world problems throug
 ## 🔧 Featured Repositories
 - 🍞 [Bakery Inventory Manager](https://github.com/jkfaris94/bakery-inventory-manager)  
   A full‑stack bakery inventory management app built with React, React Router, Express, and Knex/PostgreSQL.
-- 🎥 [WeLoveMovies]([https://github.com/jkfaris94/Chegg-skills](https://github.com/jkfaris94/WeLoveMovies-back-end))  
+- 🎥 [WeLoveMovies](https://github.com/jkfaris94/WeLoveMovies-back-end)  
   A RESTful backend service for a movie theater application. This API supports retrieving movie information, theater showings, and user reviews.
 - ✍🏻 [Flashcard-O-Matic](https://github.com/jkfaris94/Flashcard-O-Matic) 
   A React-based flashcard learning app designed to help students study efficiently and teachers manage decks of cards for specific subjects. Built as a capstone project to practice CRUD operations, routing, and state management.
