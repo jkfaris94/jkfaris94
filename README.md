@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Johnny K Faris
+# 👋 Hi, I'm Johnny Faris
 
 I'm a full-stack developer with a passion for solving real-world problems through clean, scalable code. I'm currently wrapping up a full-time coding bootcamp while building a portfolio of personal and professional projects.
 
