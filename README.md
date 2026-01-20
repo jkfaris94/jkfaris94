@@ -23,7 +23,6 @@ Designed to simplify workflows, boost efficiency, and foster stronger trainer-cl
 | Project | Description |
 |----------|--------------|
 | 🌐 [ChampLife.fit (Beta)](https://champlife.fit) | Fitness brand site focused on goal-specific training, nutrition, and recovery. |
-| 🏢 [OperationsHoldings.com](https://operationsholdings.com) | Simple holding company portfolio site. |
 | 🧬 [ioscap.com](https://ioscap.com) | single page form site with database storing and on submission emails via email.js. |
 
 ---
