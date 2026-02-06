@@ -1,62 +1,54 @@
-# 👋 Hi, I'm Johnny Faris
 
-I'm a **Full-Stack Software Engineer** passionate about building scalable, user-focused applications that solve real-world problems. Recently finished a full-time coding bootcamp while developing production-ready apps across fitness, business, and tech spaces.
+# Johnny Faris
 
----
+**Software Engineer & Founder**  
+Building product-driven software systems for fitness professionals and small business operations.
 
-## 💻 What I'm Working On
-
-### **ChampLife (In Development)**
-Building **ChampLife** — a comprehensive web/mobile portal for personal trainers to streamline business operations and enhance client experiences.  
-Key features include:  
-- 📅 Session & schedule tracking  
-- 🏋️ Customizable exercise programs  
-- 🍎 Nutrition & food logging  
-- 📈 Real-time progress monitoring  
-- 🤝 Intuitive trainer-client interaction tools  
-
-Designed to simplify workflows, boost efficiency, and foster stronger trainer-client relationships.
+> I operate real businesses and design software around actual operational problems—not abstract use cases.
 
 ---
 
-## 🚀 Live Projects
-| Project | Description |
-|----------|--------------|
-| 🌐 [ChampLife.fit (Beta)](https://champlife.fit) | Fitness brand site focused on goal-specific training, nutrition, and recovery. |
-| 🧬 [ioscap.com](https://ioscap.com) | single page form site with database storing and on submission emails via email.js. |
+## 🏗️ Current Ventures
+
+### **Trainer-Focused SaaS Platform** (In Development)
+A vertical SaaS designed to systematize operations for independent personal training businesses.
+* **Core Focus:** Client relationship management (CRM), credit-based accounting, and operational visibility.
+* **Integration:** Syncs with external health platforms (wearables, nutrition).
+* **Context:** Built on real-world data from my operating fitness business.
+
+### **ChampLife / Champion Lifestyle**
+My operating personal training business and live testing ground.
+* Provides domain expertise for product development.
+* Acts as a real-world environment for beta features.
+* Creates direct feedback loops between service delivery and software logic.
+
+### **KansoLogic**
+An engineering consultancy focused on technical audits, system architecture, and long-term maintainability.
+* **Scope:** Custom internal tools, technical gap analysis, and infrastructure planning.
+* **Philosophy:** Building for clarity, durability, and real-world scale.
 
 ---
 
-## 🧠 What I'm Skilled With
-- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+), FramerMotion, Tailwind, Bootstrap
-- **Backend:** Node.js, Express, REST APIs
-- **Databases:** PostgreSQL, MongoDB, Knex.js, Supabase, Firestore
-- **Other:** Git & GitHub, Algorithms & Data Structures, Responsive Design
+## 📂 About This GitHub
+
+This profile reflects active development across proprietary products, internal tools, and supporting infrastructure.
+
+Much of my active work involves proprietary business logic and resides in private repositories. Public code is shared selectively.
 
 ---
 
-## 🔧 Featured Repositories
-- 🍞 [Bakery Inventory Manager](https://github.com/jkfaris94/bakery-inventory-manager)  
-  Full-stack bakery inventory management app built with React, Express, Knex, and PostgreSQL.
-- 🎥 [WeLoveMovies](https://github.com/jkfaris94/WeLoveMovies-back-end)  
-  RESTful API for a movie theater app featuring dynamic routing, filtering, and relational data joins.
-- ✍🏻 [Flashcard-O-Matic](https://github.com/jkfaris94/Flashcard-O-Matic)  
-  React-based flashcard app for studying and teaching. Focused on CRUD operations, routing, and state management.
+## 💻 Technical Context
 
-> 🔨 More projects coming soon — stay tuned for open-source contributions and new builds from **TrainerHub**.
+**Core Stack:**  
+`TypeScript` · `React / Next.js` · `Node.js / Express` · `PostgreSQL`
 
----
-
-## 💼 My Background
-- 🧑‍💻 Full-Stack Software Engineer  
-- 🏋️ CEO of **Champion Lifestyle LLC**  
-- 🥋 Former Professional Fighter (MMA, Muay Thai, BJJ)  
-- 🔥 Passionate about health, tech, and continuous learning
+**Focus:**  
+Systems designed for maintainability, type safety, and long-term durability.
 
 ---
 
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/johnny-faris/)  
-- 🌐 [Portfolio](https://johnnyfaris.com/)  
-- 📧 [jkfaris@gmail.com](mailto:jkfaris@gmail.com)
+- 🌐 [KansoLogic](https://www.kansologic.com)  
+- 📧 [Johnny@KansoLogic.com](mailto:Johnny@KansoLogic.com)
 
