@@ -1,10 +1,8 @@
-
 # Johnny Faris
 
-**Software Engineer & Founder**  
-Building product-driven software systems for fitness professionals and small business operations.
+**Software Engineer & Founder** Building product-driven software systems for fitness professionals and small business operations.
 
-> I operate real businesses and design software around actual operational problems—not abstract use cases.
+> I operate real businesses and design software around actual operational problems.
 
 ---
 
@@ -39,11 +37,9 @@ Much of my active work involves proprietary business logic and resides in privat
 
 ## 💻 Technical Context
 
-**Core Stack:**  
-`TypeScript` · `React / Next.js` · `Node.js / Express` · `PostgreSQL`
+**Core Stack:** `TypeScript` · `React / Next.js` · `Node.js / Express` · `PostgreSQL`
 
-**Focus:**  
-Systems designed for maintainability, type safety, and long-term durability.
+**Focus:** Systems designed for maintainability, type safety, and long-term durability.
 
 ---
 
