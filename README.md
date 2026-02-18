@@ -2,7 +2,7 @@
 
 **Software Engineer & Founder** Building product-driven software systems for fitness professionals and small business operations.
 
-> I operate real businesses and design software around actual operational problems.
+>> I operate real businesses and design software around actual operational problems.
 
 ---
 
